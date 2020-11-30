@@ -1,1 +1,1 @@
-# Stock_prediction
+# Stock_forecasting using arima and LSTM
